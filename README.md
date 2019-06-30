@@ -1,0 +1,2 @@
+# Handwritten_Digits_Classification_Logisitic_Regression
+Using Logistic Regression and SVM to classify handwritten digits
